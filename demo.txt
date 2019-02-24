@@ -1,3 +1,4 @@
  This is my git project
 
  this is 2nd line
+this is 3rd line.
